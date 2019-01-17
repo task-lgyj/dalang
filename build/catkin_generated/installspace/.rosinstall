@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/task02/Desktop/ros/catkin_ws/install/setup.sh
